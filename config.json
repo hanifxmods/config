@@ -6,7 +6,7 @@
     "showNegativeButton": true,
     "negativeButtonText": "Join Channel",
     "negativeButtonUrl": "https://t.me/TheHiddenFools",
-    "showPositiveButton": false,
+    "showPositiveButton": true,
     "positiveButtonText": "Maybe Later",
     "maxShowCount": 3,
     "controlByShowCount": true
