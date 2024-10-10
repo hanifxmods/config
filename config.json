@@ -1,0 +1,13 @@
+{
+    "credits": "@KafuHex",
+    "showDialog": true,
+    "title": "aku sigma",
+    "message": "sebab kau terlalu sigma🧏\ndari sekedar beta🤫\nohio berhenti sejenak🌚\nmenikmati gyattmu✨",
+    "showNegativeButton": true,
+    "negativeButtonText": "Join Channel",
+    "negativeButtonUrl": "https://t.me/TheHiddenFools",
+    "showPositiveButton": false,
+    "positiveButtonText": "Maybe Later",
+    "maxShowCount": 3,
+    "controlByShowCount": true
+}
